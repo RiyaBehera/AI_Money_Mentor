@@ -105,8 +105,9 @@ http://127.0.0.1:3002
 * User login & memory
 * Mobile app version
 
-## 👩‍💻 Built By
+## 👥 Team
 
-Shreeja Sarkar
-Riya Behera
-Sneha Basak
+This project was built as part of a hackathon by a collaborative team.
+
+Contributors are listed in the repository:
+👉 See Contributors Section on GitHub
