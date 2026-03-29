@@ -52,7 +52,7 @@ AI Chat
 * Conversational financial assistant
 
 Project Structure
-
+```
 AI_money_mentor/
 │
 ├── backend/
@@ -78,7 +78,7 @@ AI_money_mentor/
 |
 ├── .env
 └── README.md (optional but recommended at root)
-
+```
 Setup Instructions
 
 1. Clone the repo:
