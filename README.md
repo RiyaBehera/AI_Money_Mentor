@@ -84,6 +84,8 @@ Setup Instructions
 1. Clone the repo:
 
 git clone https://github.com/Shreejjaa/AI_Money_Mentor.git
+              OR
+git clone https://github.com/RiyaBehera/AI_Money_Mentor
 
 2. Install dependencies:
 
