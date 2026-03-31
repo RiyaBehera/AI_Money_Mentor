@@ -85,7 +85,7 @@ Setup Instructions
 
 git clone https://github.com/Shreejjaa/AI_Money_Mentor.git
 
-              OR
+OR
               
 git clone https://github.com/RiyaBehera/AI_Money_Mentor
 
